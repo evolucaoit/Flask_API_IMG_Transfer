@@ -61,7 +61,7 @@ O endpoint `/login` recebe credenciais e retorna um token JWT válido por uma ho
 
 ## 📌 Referências
 
-Este projeto é 100% original e todos os textos e documentações foram cuidadosamente escritos e estilizados usando ferramentas de IA como ChatGPT e Google Gemini API.
+Este projeto é 100% original e todos os textos e documentações foram cuidadosamente escritos e depois estilizados usando ferramentas de IA como ChatGPT e Google Gemini API para melhor apresentação.
 
 ### 📚 Outros Projetos
 
